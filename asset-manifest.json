@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xiaobai-notePad-react-version-website/static/css/main.30276ca3.chunk.css",
+    "main.js": "/xiaobai-notePad-react-version-website/static/js/main.c7881b31.chunk.js",
+    "main.js.map": "/xiaobai-notePad-react-version-website/static/js/main.c7881b31.chunk.js.map",
+    "runtime-main.js": "/xiaobai-notePad-react-version-website/static/js/runtime-main.35e75c65.js",
+    "runtime-main.js.map": "/xiaobai-notePad-react-version-website/static/js/runtime-main.35e75c65.js.map",
+    "static/js/2.5fae0eb1.chunk.js": "/xiaobai-notePad-react-version-website/static/js/2.5fae0eb1.chunk.js",
+    "static/js/2.5fae0eb1.chunk.js.map": "/xiaobai-notePad-react-version-website/static/js/2.5fae0eb1.chunk.js.map",
+    "index.html": "/xiaobai-notePad-react-version-website/index.html",
+    "precache-manifest.911e30321dc5bea25d32ddceefac91cb.js": "/xiaobai-notePad-react-version-website/precache-manifest.911e30321dc5bea25d32ddceefac91cb.js",
+    "service-worker.js": "/xiaobai-notePad-react-version-website/service-worker.js",
+    "static/css/main.30276ca3.chunk.css.map": "/xiaobai-notePad-react-version-website/static/css/main.30276ca3.chunk.css.map",
+    "static/js/2.5fae0eb1.chunk.js.LICENSE.txt": "/xiaobai-notePad-react-version-website/static/js/2.5fae0eb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35e75c65.js",
+    "static/js/2.5fae0eb1.chunk.js",
+    "static/css/main.30276ca3.chunk.css",
+    "static/js/main.c7881b31.chunk.js"
+  ]
+}
